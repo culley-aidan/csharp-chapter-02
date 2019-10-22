@@ -5,5 +5,5 @@ C# Programming Chapter 2
 - [X] 06 - MilesToKilometers
 - [X] 08 - ProjectRaises
 - [X] 11 – Eggs
-- [ ] 13 – Dollars
+- [X] 13 – Dollars
 - [ ] 16 - FahrenheitToCelsius
