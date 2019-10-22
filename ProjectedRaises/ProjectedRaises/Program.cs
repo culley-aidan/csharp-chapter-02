@@ -17,8 +17,8 @@ namespace ProjectedRaises
             decimal.TryParse(Console.ReadLine(), out decimal employeeThree);
             employeeThree += employeeThree * percentRaise;
 
-
             Console.WriteLine(String.Format("Next years salary for employee 1 is {0}, employee 2's salary is {1}, and employee 3's salary is {2}", employeeOne.ToString(), employeeTwo.ToString(), employeeThree.ToString()));
+            Console.ReadLine();
         }
     }
 }

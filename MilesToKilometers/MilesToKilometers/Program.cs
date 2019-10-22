@@ -10,8 +10,6 @@ namespace MilesToKilometers
             Console.Write("Enter miles to convert to kilometers: ");
             // recording user input
             string response = Console.ReadLine();
-            // inputting a newline character
-            Console.Write(Environment.NewLine);
             // tryparsing user input to a double, assuming it's valid
             if (!double.TryParse(response, out double miles))
             {
@@ -27,7 +25,7 @@ namespace MilesToKilometers
         }
         static double milesToKilometers(double miles)
         {
-            // does the conversion using the formula mile * 1.6
+            // does the conversion using the formula km = mile * 1.6
             return miles * 1.6;
         }
     }
