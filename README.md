@@ -6,4 +6,4 @@ C# Programming Chapter 2
 - [X] 08 - ProjectRaises
 - [X] 11 – Eggs
 - [X] 13 – Dollars
-- [ ] 16 - FahrenheitToCelsius
+- [X] 16 - FahrenheitToCelsius
