@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<config>
+  <denomination value="20"/>
+  <denomination value="10"/>
+  <denomination value="5"/>
+  <denomination value="1"/>
+</config>
